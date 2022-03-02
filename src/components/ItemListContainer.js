@@ -6,4 +6,7 @@ const ItemListContainer = () => {
   )
 }
 
+greeting = () => {
+    console.log("Esta es Item List Container")
+}
 export default ItemListContainer
